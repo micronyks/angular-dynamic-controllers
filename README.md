@@ -8,7 +8,7 @@ To run this project, make sure node.js is installed on your pc.
 
 Download source code.
 
-Goto soruce containing folder using node command line.
+Goto source containing folder using node command line.
 
 type in, node server.js // (windows user)
 
